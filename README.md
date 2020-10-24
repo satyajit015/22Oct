@@ -1,2 +1,1 @@
-# 22Oct
-This is created for learning purpose
+# Hello, Good Morning 24th Oct
