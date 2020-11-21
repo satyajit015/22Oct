@@ -1,5 +1,5 @@
 public class Program {
 	public static void main(String[] args) {
-		System.out.println("Hello Java - change1 -  8:34");	
+		System.out.println("Hello Java - change1 -  8:47");	
 	}
 }
